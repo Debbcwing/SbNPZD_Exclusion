@@ -27,7 +27,7 @@ The model focuses on resolving size-dependent bottom-up and top-down interaction
 ## How to run the model
 Running the model requires two scripts in the 'Model run' folder, the 'SizebNPZD_v0.py' and the 'ModRun.py'. The first script is for decribing the model while the second script is for running the model.
 
-Other than these two scripts, one would also need datasets for environmental/physical forcing to the model, namely, the temperature, the irradiance and the nutrient concentration throughout the year. Default/example forcing data for this model can be found in the 'Data' folder.
+Other than these two scripts, one would also need datasets for environmental/physical forcing to the model, namely, the temperature, the irradiance and the nutrient concentration throughout the year. Default/example forcing data for this model can be found in the 'ModData' folder.
 
 
 
