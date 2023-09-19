@@ -34,6 +34,7 @@ Other than these two scripts, one would also need datasets for environmental/phy
 ## How to generate and analysize results
 The results produced from the model are saved as a multi-dimensional array in NetCDF format and archived in Zenodo (https://doi.org/10.5281/zenodo.5815387; doi: 10.5281/zenodo.5815387)
 
+To, Sze Wing, Acevedo-Trejos, Esteban, Chakraborty, Subhendu, Smith, Sherwood Lan, & Merico, Agostino. (2023). Ecological and environmental factors influencing exclusion patterns of phytoplankton size classes in lake systems. https://doi.org/10.5281/zenodo.5815387
 
 ## Related publications
 For more detailed model descriptions, formulations, or an application example of the model, please refer to the related publication of this model (under review).
