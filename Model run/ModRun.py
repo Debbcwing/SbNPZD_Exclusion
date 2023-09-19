@@ -7,7 +7,7 @@ from scipy.interpolate import make_interp_spline
 from SizeModLogspace_clean import SizeModLogspace
 
 Pnum = 150      # specify the nos of phytoplankton size groups
-Ynum = 10       # no. of modeling year
+Ynum = 1       # no. of modeling year
 mod_name = 'StdRun_clean'
 
 # Import forcing data
