@@ -1,7 +1,7 @@
-# Sizeb_NPZD - exclusion patterns of phytoplankton community
+# Sizeb_NPZD - exclusion patterns of the phytoplankton community
 
-The exclusion of phytoplankton is a critical element for understanding phytoplankton diversity we oberve in nature. 
-We used a size-based model to investigate the exclusion patterns of a phytoplankton community. The model is embedded with multiple allometric relationships that constitute an ecological trade-off favouring small and large phytoplankton at different environmental conditions.
+The exclusion of phytoplankton is a critical element for understanding phytoplankton diversity we observe in nature. 
+We used a size-based model to investigate the exclusion patterns of a phytoplankton community. The model is embedded with multiple allometric relationships that allows an ecological trade-off to emerge and to favour small and large phytoplankton at different environmental conditions.
 
 We consider four allometric relationships in the model are:
 
